@@ -1,0 +1,1682 @@
+[
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "eclipse"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "excel"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "html"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "java"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "jquery"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "linux"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "managed"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "net"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "office"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "oracle"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "sap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "soap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "sql"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "studies"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "css"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "excel"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "html"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "java"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "jquery"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "linux"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "managed"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "net"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "office"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "oracle"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "sap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "soap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "sql"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "studies"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "eclipse"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "html"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "java"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "jquery"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "linux"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "managed"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "net"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "office"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "oracle"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "sap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "soap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "sql"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "studies"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "excel"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "java"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "jquery"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "linux"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "managed"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "net"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "office"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "oracle"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "sap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "soap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "sql"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "studies"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "html"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "jquery"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "linux"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "managed"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "net"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "office"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "oracle"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "sap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "soap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "sql"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "studies"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "java"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "linux"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "managed"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "net"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "office"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "oracle"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "sap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "soap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "sql"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "studies"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "jquery"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "linux"
+    },
+    "target": {
+      "Skill": "managed"
+    }
+  },
+  {
+    "source": {
+      "Skill": "linux"
+    },
+    "target": {
+      "Skill": "net"
+    }
+  },
+  {
+    "source": {
+      "Skill": "linux"
+    },
+    "target": {
+      "Skill": "office"
+    }
+  },
+  {
+    "source": {
+      "Skill": "linux"
+    },
+    "target": {
+      "Skill": "oracle"
+    }
+  },
+  {
+    "source": {
+      "Skill": "linux"
+    },
+    "target": {
+      "Skill": "sap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "linux"
+    },
+    "target": {
+      "Skill": "soap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "linux"
+    },
+    "target": {
+      "Skill": "sql"
+    }
+  },
+  {
+    "source": {
+      "Skill": "linux"
+    },
+    "target": {
+      "Skill": "studies"
+    }
+  },
+  {
+    "source": {
+      "Skill": "linux"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "linux"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "linux"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "linux"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "linux"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "linux"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "managed"
+    },
+    "target": {
+      "Skill": "net"
+    }
+  },
+  {
+    "source": {
+      "Skill": "managed"
+    },
+    "target": {
+      "Skill": "office"
+    }
+  },
+  {
+    "source": {
+      "Skill": "managed"
+    },
+    "target": {
+      "Skill": "oracle"
+    }
+  },
+  {
+    "source": {
+      "Skill": "managed"
+    },
+    "target": {
+      "Skill": "sap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "managed"
+    },
+    "target": {
+      "Skill": "soap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "managed"
+    },
+    "target": {
+      "Skill": "sql"
+    }
+  },
+  {
+    "source": {
+      "Skill": "managed"
+    },
+    "target": {
+      "Skill": "studies"
+    }
+  },
+  {
+    "source": {
+      "Skill": "managed"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "managed"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "managed"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "managed"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "managed"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "managed"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "net"
+    },
+    "target": {
+      "Skill": "office"
+    }
+  },
+  {
+    "source": {
+      "Skill": "net"
+    },
+    "target": {
+      "Skill": "oracle"
+    }
+  },
+  {
+    "source": {
+      "Skill": "net"
+    },
+    "target": {
+      "Skill": "sap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "net"
+    },
+    "target": {
+      "Skill": "soap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "net"
+    },
+    "target": {
+      "Skill": "sql"
+    }
+  },
+  {
+    "source": {
+      "Skill": "net"
+    },
+    "target": {
+      "Skill": "studies"
+    }
+  },
+  {
+    "source": {
+      "Skill": "net"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "net"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "net"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "net"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "net"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "net"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "office"
+    },
+    "target": {
+      "Skill": "oracle"
+    }
+  },
+  {
+    "source": {
+      "Skill": "office"
+    },
+    "target": {
+      "Skill": "sap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "office"
+    },
+    "target": {
+      "Skill": "soap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "office"
+    },
+    "target": {
+      "Skill": "sql"
+    }
+  },
+  {
+    "source": {
+      "Skill": "office"
+    },
+    "target": {
+      "Skill": "studies"
+    }
+  },
+  {
+    "source": {
+      "Skill": "office"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "office"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "office"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "office"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "office"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "office"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "oracle"
+    },
+    "target": {
+      "Skill": "sap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "oracle"
+    },
+    "target": {
+      "Skill": "soap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "oracle"
+    },
+    "target": {
+      "Skill": "sql"
+    }
+  },
+  {
+    "source": {
+      "Skill": "oracle"
+    },
+    "target": {
+      "Skill": "studies"
+    }
+  },
+  {
+    "source": {
+      "Skill": "oracle"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "oracle"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "oracle"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "oracle"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "oracle"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "oracle"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sap"
+    },
+    "target": {
+      "Skill": "soap"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sap"
+    },
+    "target": {
+      "Skill": "sql"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sap"
+    },
+    "target": {
+      "Skill": "studies"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sap"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sap"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sap"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sap"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sap"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sap"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "soap"
+    },
+    "target": {
+      "Skill": "sql"
+    }
+  },
+  {
+    "source": {
+      "Skill": "soap"
+    },
+    "target": {
+      "Skill": "studies"
+    }
+  },
+  {
+    "source": {
+      "Skill": "soap"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "soap"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "soap"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "soap"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "soap"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "soap"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sql"
+    },
+    "target": {
+      "Skill": "studies"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sql"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sql"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sql"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sql"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sql"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "sql"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "studies"
+    },
+    "target": {
+      "Skill": "testes"
+    }
+  },
+  {
+    "source": {
+      "Skill": "studies"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "studies"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "studies"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "studies"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "studies"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "testes"
+    },
+    "target": {
+      "Skill": "visual"
+    }
+  },
+  {
+    "source": {
+      "Skill": "testes"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "testes"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "testes"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "testes"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "visual"
+    },
+    "target": {
+      "Skill": "web"
+    }
+  },
+  {
+    "source": {
+      "Skill": "visual"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "visual"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "visual"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "web"
+    },
+    "target": {
+      "Skill": "windows"
+    }
+  },
+  {
+    "source": {
+      "Skill": "web"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "web"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "windows"
+    },
+    "target": {
+      "Skill": "word"
+    }
+  },
+  {
+    "source": {
+      "Skill": "windows"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  },
+  {
+    "source": {
+      "Skill": "word"
+    },
+    "target": {
+      "Skill": "xml"
+    }
+  }
+]
