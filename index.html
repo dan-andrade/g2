@@ -1,0 +1,21 @@
+<!doctype html>
+  <meta charset="utf-8">
+  <script src="https://d3plus.org/js/d3.js"></script>
+  <script src="https://d3plus.org/js/d3plus.js"></script>
+          <div id="network"></div>
+          <script>
+          var visualization = d3plus.viz()
+          .container("#network")
+          .edges("https://raw.githubusercontent.com/seek-and-create/g2/master/g2_edges.json")
+          .nodes("https://raw.githubusercontent.com/seek-and-create/g2/master/g2_nodes.json")
+          .type("network")
+          .resize(true)
+          .font({"family": "Lato"})
+          .size(1)
+          .depth(1)
+          .color("Color")
+          .title("Skills network")
+          .legend({"size": 32})
+          .draw()
+          </script>
+<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css">
